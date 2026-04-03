@@ -16,7 +16,7 @@ High-quality datasets for researchers, marketers, and developers.
 - чистые и структурированные данные
 
 ## 🛍️ Buy here
-👉 https://t.me/YOUR_BOT_NAME
+👉 [@stemshopnew_bot](https://t.me/stemshopnew_bot)
 
 ## 💬 Support
-Contact via Telegram
+[Contact via Telegram](https://stemshop.top/)
