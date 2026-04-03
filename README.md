@@ -19,4 +19,4 @@ High-quality datasets for researchers, marketers, and developers.
 👉 [@stemshopnew_bot](https://t.me/stemshopnew_bot)
 
 ## 💬 Support
-[Contact via Telegram](https://stemshop.top/)
+[or site](https://stemshop.top/)
