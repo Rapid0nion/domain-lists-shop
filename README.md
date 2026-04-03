@@ -18,5 +18,7 @@ High-quality datasets for researchers, marketers, and developers.
 ## 🛍️ Buy here
 👉 [@stemshopnew_bot](https://t.me/stemshopnew_bot)
 
-## 💬 Support
+## 💬 Site
 [or site](https://stemshop.top/)
+
+👉 Full catalog: see products.md
