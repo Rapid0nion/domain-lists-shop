@@ -12,7 +12,7 @@ Some notable CVEs affecting Roundcube include:
 
 | CVE | Type | Affected versions / summary |
 |---|---|---|
-| [CVE-2026-54432] (/CVE-2026-54432.md) | Stored XSS | Stored XSS through an unescaped attachment MIME type |
+| [CVE-2026-54432] (CVE-2026-54432.md) | Stored XSS | Stored XSS through an unescaped attachment MIME type |
 | CVE-2026-54433 | Stored XSS | Zero-click stored XSS in plain-text rendering |
 | CVE-2026-35540 | SSRF / Information Disclosure | CSS sanitization issue could allow requests to local network hosts |
 | CVE-2025-49113 | RCE | Authenticated remote code execution through PHP object deserialization |
