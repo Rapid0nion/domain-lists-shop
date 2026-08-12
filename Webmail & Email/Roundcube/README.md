@@ -12,12 +12,12 @@ Some notable CVEs affecting Roundcube include:
 
 | CVE | Type | Affected versions / summary |
 |---|---|---|
-| [CVE-2026-54432] (CVE-2026-54432.md) | Stored XSS | Stored XSS through an unescaped attachment MIME type |
-| CVE-2026-54433 | Stored XSS | Zero-click stored XSS in plain-text rendering |
-| CVE-2026-35540 | SSRF / Information Disclosure | CSS sanitization issue could allow requests to local network hosts |
-| CVE-2025-49113 | RCE | Authenticated remote code execution through PHP object deserialization |
-| CVE-2024-42009 | XSS | Crafted email could abuse HTML sanitization and affect email confidentiality/integrity |
-| CVE-2023-43770 | XSS | XSS through crafted links in text/plain email messages |
+| [CVE-2026-54432](CVE-2026-54432.md) | Stored XSS | Stored XSS through an unescaped attachment MIME type |
+| [CVE-2026-54433](CVE-2026-54433.md) | Stored XSS | Zero-click stored XSS in plain-text rendering |
+| [CVE-2026-35540](CVE-2026-35540.md) | SSRF / Information Disclosure | CSS sanitization issue could allow requests to local network hosts |
+| [CVE-2025-49113](CVE-2025-49113.md) | RCE | Authenticated remote code execution through PHP object deserialization |
+| [CVE-2024-42009](CVE-2024-42009.md) | XSS | Crafted email could abuse HTML sanitization and affect email confidentiality/integrity |
+| [CVE-2023-43770](CVE-2023-43770.md) | XSS | XSS through crafted links in text/plain email messages |
 | CVE-2020-35730 | XSS | XSS through specially crafted plain-text email content |
 | CVE-2020-15562 | XSS | XSS through crafted HTML email content |
 | CVE-2020-12625 | XSS | XSS involving JavaScript in HTML message content |
