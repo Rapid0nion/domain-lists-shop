@@ -1,5 +1,7 @@
 # 🚀 Domain Data & Research Datasets
 
+🌐 **[StemShop Website](https://stemshop.top/)** · 🤖 **[Telegram Shop](https://t.me/stemshopnew_bot)** · 📦 **[Full Product Catalog](products.md)**
+
 Curated domain lists and web datasets for security researchers, developers, marketers, analysts, and technology researchers.
 
 This repository serves as a public index of datasets and research resources covering domains, web technologies, infrastructure, security-related technologies, and other internet-facing data.
@@ -153,3 +155,17 @@ Webmail & Email/
 └── Roundcube/
     ├── README.md
     └── ...
+---
+
+## 🛍️ Explore the Catalog
+
+Browse the complete list of available datasets:
+
+📦 **[View Full Product Catalog](products.md)**
+
+🌐 **[Visit StemShop](https://stemshop.top/)**  
+🤖 **[Open StemShop on Telegram](https://t.me/stemshopnew_bot)**
+
+---
+
+**StemShop — Domain Lists & Web Research Data**
